@@ -4,6 +4,20 @@
 Platform game υλοποιημένο σε C++ με χρήση της βιβλιοθήκης Simple Graphics Library (SGG).
 Ο παίκτης κινείται σε πίστες, αποφεύγει κινδύνους/εχθρούς και συλλέγει αντικείμενα/πόντους μέχρι τον τερματισμό.
 
+
+ΤΟ ΠΑΙΧΝΙΔΙ ΣΕ exe ΕΙΝΑΙ ΣΕ ΑΥΤΟ ΤΟ ΛΙΝΚ: 
+
+https://drive.google.com/drive/folders/139hDW1rk8Ve4RNRketUQtg8IqduB2T-X?usp=sharing
+
+
+ΤΟ ΠΑΙΧΝΙΔΙ ΠΩΣ ΛΕΙΤΟΥΡΓΕΙ ΣΕ ΒΙΝΤΕΟ : 
+
+https://drive.google.com/drive/folders/1eb8iypLsaKMm2lIRRxjP6GGNvT2VUmUc?usp=sharing
+
+ΤΑ ASSETS ΤΟΥ ΠΑΙΧΝΙΔΙΟΥ :
+
+https://drive.google.com/drive/folders/15CjyO5DqDTh--OqfuaoyZaU_vWwlAEpQ?usp=sharing
+
 ## Requirements
 - Windows
 - Visual Studio (π.χ. 2019/2022)
