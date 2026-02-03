@@ -3,6 +3,9 @@
 ## Περιγραφή
 Platform game υλοποιημένο σε C++ με χρήση της βιβλιοθήκης Simple Graphics Library (SGG).
 Ο παίκτης κινείται σε πίστες, αποφεύγει κινδύνους/εχθρούς και συλλέγει αντικείμενα/πόντους μέχρι τον τερματισμό.
+- Developed a 2D platform game in C++ with a structured game loop (update/draw) and state management. 
+- Designed a class hierarchy with a base GameObject and polymorphic behavior for players, enemies, and items. 
+- Implemented collision detection (AABB), dynamic memory management for entities, and STL containers for object handling. 
 
 
 ΤΟ ΠΑΙΧΝΙΔΙ ΣΕ exe ΕΙΝΑΙ ΣΕ ΑΥΤΟ ΤΟ ΛΙΝΚ: 
@@ -39,11 +42,6 @@ https://drive.google.com/drive/folders/15CjyO5DqDTh--OqfuaoyZaU_vWwlAEpQ?usp=sha
 - `GameState`: κεντρική ροή παιχνιδιού, levels, score, πρόσβαση σε player κλπ.
 - `Player`, `Enemy`, `Level`, `UI` ως derived κλάσεις
 
-## Links
-- Full project (source): (βάλε το link)
-- Executable (exe): (βάλε το link)
-- Gameplay video: (βάλε το link)
-- Assets: (βάλε το link)
 
 ## Notes
 Αν τα assets δεν περιλαμβάνονται στο zip λόγω μεγέθους, υπάρχει αρχείο `assets_link.txt`
